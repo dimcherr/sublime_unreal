@@ -1,0 +1,19 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"auto_complete": false,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true,
+	"neovintageous_build_version": 13200,
+	"vintageous_use_sys_clipboard": true,
+	"index_files": true,
+	"vintageous_use_ctrl_keys": false,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "auto",
+	"close_windows_when_empty": false,
+	"vintageous_shell_silent": true,
+	"vintageous_i_escape_jj": true,
+	"auto_indent": true
+}

@@ -1,0 +1,2641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Blue",
+				"BlueprintImplementableEvent"
+			],
+			[
+				"FVes",
+				"FVesnaActionData"
+			],
+			[
+				"Actio",
+				"ActionsTableRowNames"
+			],
+			[
+				"Vesn",
+				"VesnaStationSystem"
+			],
+			[
+				"Skil",
+				"SkillsTableRowNames"
+			],
+			[
+				"Ele",
+				"EleonoraGabrielan"
+			],
+			[
+				"AVes",
+				"AVesnaPlayerController"
+			],
+			[
+				"FVesn",
+				"FVesnaStationSystemData"
+			],
+			[
+				"OnAll",
+				"OnAllDicesCalculated"
+			],
+			[
+				"uf",
+				"ufi\tunreal-function-interface"
+			],
+			[
+				"up",
+				"upe\tunreal-property-editable"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/main.cpp",
+			"settings":
+			{
+				"buffer_size": 349,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " i"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "include"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "<$0>"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "iostream"
+								}
+							]
+						]
+					},
+					"FgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAABAAAAaQEAAAAAAAAAAQAAAAAAAAABAAAAIAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAsAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "using"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " namepa"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "space"
+								}
+							]
+						]
+					},
+					"FAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAAAEAAABhHgAAAAAAAAAeAAAAAAAAAAEAAABwHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAABMAAAAAAAAAEwAAAAAAAAAQAAAACnVzaW5nIG5hbWVzcGFjZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nint"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " main"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "cout"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " <<"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "\"$0\""
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "std::cout"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " <<"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "\"$0\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Hello"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " world"
+								}
+							]
+						]
+					},
+					"PAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIgAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALQAAAAAAAAAAAAAAKwAAAAAAAAArAAAAAAAAAAEAAAAiKwAAAAAAAAArAAAAAAAAAAEAAAAiKgAAAAAAAAAqAAAAAAAAAAEAAAAgKQAAAAAAAAApAAAAAAAAAAEAAAA8KAAAAAAAAAAoAAAAAAAAAAEAAAA8JwAAAAAAAAAnAAAAAAAAAAEAAAAgJgAAAAAAAAAmAAAAAAAAAAEAAAB0JQAAAAAAAAAlAAAAAAAAAAEAAAB1JAAAAAAAAAAkAAAAAAAAAAEAAABvIwAAAAAAAAAjAAAAAAAAAAEAAABjIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADIAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " <<"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " endl;"
+								}
+							]
+						]
+					},
+					"CQAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					48,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "return"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " 0;"
+								}
+							]
+						]
+					},
+					"CwAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "std::"
+					},
+					"BQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					86,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "bool"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " IsM"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "IsMladich"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " false;"
+								}
+							]
+						]
+					},
+					"HwAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKgAAAAAAAAAqAAAAAAAAAAEAAABNKQAAAAAAAAApAAAAAAAAAAEAAABzKAAAAAAAAAAoAAAAAAAAAAEAAABJKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					97,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "bool"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " I"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "IsBom"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "bPlanted"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " false"
+								}
+							]
+						]
+					},
+					"HgAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABBAAAAAAAAAEEAAAAAAAAAAQAAAElBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					100,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							]
+						]
+					},
+					"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABVAAAAAAAAAFUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					104,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_select_text_object",
+										"motion_args":
+										{
+											"count": 1,
+											"inclusive": false,
+											"mode": "mode_internal_normal",
+											"text_object": "w"
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "true"
+								}
+							]
+						]
+					},
+					"BQAAAFEAAAAAAAAAUQAAAAAAAAAFAAAAZmFsc2VRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					114,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nif"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "IsMladich"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " and"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " IsM"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "BombPlanted"
+								}
+							]
+						]
+					},
+					"JgAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAVwAAAAAAAABXAAAAAAAAAAEAAAAJWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABeAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAG0AAAAAAAAAAAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbQAAAAAAAABtAAAAAAAAAAEAAABNbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					119,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							]
+						]
+					},
+					"CAAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB8AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAAABAAAACXwAAAAAAAAAfgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AAAAAAAAAHcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					122,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAIIAAAAAAAAAggAAAAAAAAAqAAAACXN0ZDo6Y291dCA8PCAiSGVsbG8gd29ybGQiIDw8IHN0ZDo6ZW5kbDsKfAAAAAAAAAB8AAAAAAAAAAIAAAAJCQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					124,
+					1,
+					"nv_vi_paste",
+					{
+						"before_cursor": false,
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAH0AAAAAAAAApwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8AAAAAAAAAHwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					125,
+					1,
+					"nv_vi_greater_than_greater_than",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAH0AAAAAAAAAfgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AAAAAAAAAH4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					127,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAHwAAAAAAAAAfAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8AAAAAAAAAHwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					138,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_select_text_object",
+										"motion_args":
+										{
+											"count": 1,
+											"inclusive": false,
+											"mode": "mode_internal_normal",
+											"text_object": "\""
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Mladich"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " and"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " obmb"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "bomb"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " planted"
+								}
+							]
+						]
+					},
+					"IwAAAIwAAAAAAAAAjAAAAAAAAAALAAAASGVsbG8gd29ybGSMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJkAAAAAAAAAAAAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmgAAAAAAAACbAAAAAAAAAAAAAACbAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnAAAAAAAAACcAAAAAAAAAAEAAAAgmwAAAAAAAACbAAAAAAAAAAEAAABimgAAAAAAAACaAAAAAAAAAAEAAABtmQAAAAAAAACZAAAAAAAAAAEAAABimAAAAAAAAACYAAAAAAAAAAEAAABvmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTAAAAAAAAAJMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					145,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " else"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							]
+						]
+					},
+					"DQAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALkAAAAAAAAAAAAAALkAAAAAAAAAugAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvgAAAAAAAAAAAAAAvQAAAAAAAAC+AAAAAAAAAAAAAAC+AAAAAAAAAL8AAAAAAAAAAAAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAAC+AAAAAAAAAL4AAAAAAAAAAQAAAAm+AAAAAAAAAMAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC1AAAAAAAAALUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					150,
+					1,
+					"nv_vi_paste",
+					{
+						"before_cursor": false,
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAMEAAAAAAAAA+QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/AAAAAAAAAL8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					152,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAL4AAAAAAAAAvgAAAAAAAAADAAAACQkK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/AAAAAAAAAL8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					161,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_select_text_object",
+										"motion_args":
+										{
+											"count": 1,
+											"inclusive": false,
+											"mode": "mode_internal_normal",
+											"text_object": "\""
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Something"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " is"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " false"
+								}
+							]
+						]
+					},
+					"EwAAAM4AAAAAAAAAzgAAAAAAAAAYAAAATWxhZGljaCBhbmQgYm9tYiBwbGFudGVkzgAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAADSAAAAAAAAANMAAAAAAAAAAAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANkAAAAAAAAAAAAAANkAAAAAAAAA2gAAAAAAAAAAAAAA2gAAAAAAAADbAAAAAAAAAAAAAADbAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAN8AAAAAAAAAAAAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAAAAAAAAAOMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					169,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_c",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"motion":
+									{
+										"motion": "nv_vi_select_text_object",
+										"motion_args":
+										{
+											"count": 1,
+											"inclusive": false,
+											"mode": "mode_internal_normal",
+											"text_object": "w"
+										}
+									},
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "true"
+								}
+							]
+						]
+					},
+					"BQAAADQAAAAAAAAANAAAAAAAAAAFAAAAZmFsc2U0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					186,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "int*"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "arr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "[$0]"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "10"
+								}
+							]
+						]
+					},
+					"EQAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAABAAAAPV8AAAAAAAAAXwAAAAAAAAABAAAAIF8AAAAAAAAAYQAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					189,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							]
+						]
+					},
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					195,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							]
+						]
+					},
+					"BQAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAZQAAAAAAAABlAAAAAAAAAAEAAAAJ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAAAAAAAAAGMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					206,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAF8AAAAAAAAAXwAAAAAAAAABAAAAW2UAAAAAAAAAZQAAAAAAAAABAAAACQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					208,
+					1,
+					"insert",
+					{
+						"characters": "<:"
+					},
+					"AgAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					211,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAGMAAAAAAAAAYwAAAAAAAAABAAAAXQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAAAAAAAAAGMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					213,
+					1,
+					"insert",
+					{
+						"characters": ":>"
+					},
+					"AgAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAAAAAAAAAGMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					219,
+					2,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAF8AAAAAAAAAXwAAAAAAAAABAAAAPF8AAAAAAAAAXwAAAAAAAAABAAAAOg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					221,
+					1,
+					"insert",
+					{
+						"characters": "["
+					},
+					"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					224,
+					2,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAGIAAAAAAAAAYgAAAAAAAAABAAAAOmIAAAAAAAAAYgAAAAAAAAABAAAAPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiAAAAAAAAAGIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					226,
+					1,
+					"insert",
+					{
+						"characters": "]"
+					},
+					"AQAAAGIAAAAAAAAAYwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiAAAAAAAAAGIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					251,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					253,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					255,
+					1,
+					"insert",
+					{
+						"characters": "%:i"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					259,
+					2,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAJQAAAAAAAAAAAAAAAAAAAAABAAAAOg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					261,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					272,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "not"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							]
+						]
+					},
+					"BAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAAAAAAAAAG0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					276,
+					1,
+					"nv_vi_d",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"motion":
+						{
+							"motion": "nv_vi_find_in_line",
+							"motion_args":
+							{
+								"char": ")",
+								"count": 1,
+								"inclusive": false,
+								"mode": "mode_internal_normal"
+							}
+						},
+						"register": "\""
+					},
+					"AQAAAHoAAAAAAAAAegAAAAAAAAASAAAAIGFuZCBJc0JvbWJQbGFudGVk",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AAAAAAAAAHoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					281,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAG4AAAAAAAAAbgAAAAAAAAABAAAAbw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABuAAAAAAAAAG4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					283,
+					3,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AwAAAG0AAAAAAAAAbQAAAAAAAAABAAAAbm0AAAAAAAAAbQAAAAAAAAABAAAAdG0AAAAAAAAAbQAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAAAAAAAAAG0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					285,
+					1,
+					"insert",
+					{
+						"characters": "!"
+					},
+					"AQAAAG0AAAAAAAAAbgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAAAAAAAAAG0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					289,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAGcAAAAAAAAAZwAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAAAAAAAAAGcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					291,
+					1,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAGYAAAAAAAAAZgAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmAAAAAAAAAGYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					321,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "#include"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "\"$0\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "govno.txt"
+								}
+							]
+						]
+					},
+					"FAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAfAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					343,
+					1,
+					"nv_vi_o",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					352,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "//"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " this"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " line"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " will"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " be"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " removed"
+								}
+							]
+						]
+					},
+					"HQAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					359,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAJ4AAAAAAAAAngAAAAAAAAABAAAAIQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeAAAAAAAAAJ4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					364,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "b"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "not"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							]
+						]
+					},
+					"BgAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAngAAAAAAAACeAAAAAAAAAAEAAABingAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeAAAAAAAAAJ4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					373,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAFMAAAAAAAAAUwAAAAAAAAABAAAAew",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAAAAAAAAAFMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					375,
+					1,
+					"insert",
+					{
+						"characters": " %:"
+					},
+					"AwAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAAAAAAAAAFIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					382,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAABAAAAOg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					384,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAFMAAAAAAAAAUwAAAAAAAAABAAAAJQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAAAAAAAAAFMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					390,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_big_a",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							]
+						]
+					},
+					"BQAAAFQAAAAAAAAAVgAAAAAAAAAAAAAAVAAAAAAAAABUAAAAAAAAAAEAAAB7VAAAAAAAAABUAAAAAAAAAAEAAAB9UwAAAAAAAABTAAAAAAAAAAEAAAAgUwAAAAAAAABVAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAAAAAAAAAFIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					393,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAABAAAAfQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					396,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAJIAAAAAAAAAkgAAAAAAAAABAAAAWw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACSAAAAAAAAAJIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					400,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "<<"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							]
+						]
+					},
+					"BAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACTAAAAAAAAAJMAAAAAAAAAAQAAADyTAAAAAAAAAJQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACSAAAAAAAAAJIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					403,
+					1,
+					"nv_vi_x",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAJYAAAAAAAAAlgAAAAAAAAABAAAAXQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACWAAAAAAAAAJYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					405,
+					1,
+					"insert",
+					{
+						"characters": ":>"
+					},
+					"AgAAAJYAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACWAAAAAAAAAJYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					411,
+					2,
+					"nv_vi_dd",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAACoAAAAAAAAAKgAAAAAAAAAdAAAALy8gdGhpcyBsaW5lIHdpbGwgYmUgcmVtb3ZlZAoqAAAAAAAAACoAAAAAAAAAAQAAAAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					422,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_o",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nint"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " S="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "GOVNO;"
+								}
+							]
+						]
+					},
+					"EQAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfAAAAAAAAAB8AAAAAAAAAAEAAAAJfgAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAAAAAAAAAGwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					428,
+					1,
+					"nv_vi_paste",
+					{
+						"before_cursor": false,
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAIsAAAAAAAAAvgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACJAAAAAAAAAIkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					430,
+					1,
+					"nv_vi_o",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AgAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AAAAAAAAAH4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					431,
+					1,
+					"nv_enter_normal_mode",
+					{
+						"mode": "mode_insert"
+					},
+					"AQAAAIsAAAAAAAAAiwAAAAAAAAABAAAACQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACMAAAAAAAAAIwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					433,
+					1,
+					"nv_vi_greater_than_greater_than",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AQAAAIwAAAAAAAAAjQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACNAAAAAAAAAI0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					434,
+					3,
+					"nv_vi_greater_than_greater_than",
+					{
+						"count": 1,
+						"mode": "mode_internal_normal",
+						"register": "\""
+					},
+					"AwAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACOAAAAAAAAAI4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"nv_vi_s",
+								{
+									"count": 1,
+									"mode": "mode_internal_normal",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "t"
+								}
+							]
+						]
+					},
+					"AgAAANEAAAAAAAAA0QAAAAAAAAABAAAAYdEAAAAAAAAA0gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/govno.txt",
+			"settings":
+			{
+				"buffer_size": 23,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "."
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "//GOVNO"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n#defin"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "e"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " GOVNO"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " 0"
+								}
+							]
+						]
+					},
+					"GQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/outmain.cpp",
+			"settings":
+			{
+				"buffer_size": 646826,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"project settings",
+				"Preferences: Project Manager Settings"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"new projec",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"rename pro",
+				"Project Manager: Rename Project"
+			],
+			[
+				"project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSX"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"addd ",
+				"Project: Add Folder"
+			],
+			[
+				"add pro",
+				"Project: Add Folder"
+			],
+			[
+				"snippet edi",
+				"Snippet: unreal-property-editable"
+			],
+			[
+				"set syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"save ",
+				"File: Save All"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"project manager",
+				"Project Manager: Add New Project"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dimka/Desktop/dev/cpp_playground"
+	],
+	"file_history":
+	[
+		"/C/Users/Dimka/Desktop/dev/MyDearProject/gitrep/MyDear/Source/MyDearEditor.Target.cs",
+		"/C/Users/Dimka/Desktop/dev/MyDearProject/gitrep/MyDear/Source/MyDear.Target.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaPlayerController.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/server/server.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceCamera.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/Dice.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Systems.json",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayerController.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerHome.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Actions.json",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Players.json",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/build.bat",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayer.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Action.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/EntityStats.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameStateSystem.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameStatePlayer.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Skill.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameInstance.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/SkillCheck.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaEntityData.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Skills.json",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/AmbientSoundManager.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/AmbientSoundManager.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameAction.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameState.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaStationSystem.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaEntity.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerHome.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/SmallEntityCard.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/SmallEntityCard.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaPlayer.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaStationSystem.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RandomStream.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/App.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/StartPlayersList.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerCard.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerCard.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/StartPlayersList.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/EntityStats.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/App.css",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/VerseVM/Inline/VVMObjectInline.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Json/Public/Dom/JsonObject.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Json/Public/Dom/JsonValue.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/index.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/Admin.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Dice.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceCamera.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaActionData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaEntity.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Materials/MaterialInterface.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/UObject/NoExportTypes.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Private/Math/Color.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayerData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaStationSystemData.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/PlayerController.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaSkillData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaStationSystemData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultEngine.ini",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate1.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate2.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/function_definition.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate3.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate4.sublime-snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultEditor.ini",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/table.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EnumRange.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/create.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/actor.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaGameInstance.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Engine/World.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/gamemode.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaGameMode.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/StartMenuGameMode.cpp",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/spawnactor.sublime-snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceSoundManager.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceManager.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceState.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceManager.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MathFwd.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Private/Math/UnrealMath.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Datasmith/DatasmithCore/Public/DatasmithDefinitions.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Array.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/actor.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/usesnippet.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/usesnippet_h.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/gamemode.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/enum.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/copyentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/deleteentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/renameentity.bat",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/mysnippet.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Die.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/removeentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/copy.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/actor.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/vars.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/editor.bat",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceSoundManager.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameMode.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/actor.snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/StartMenuHUD.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/StartMenuHUD.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Rotator.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultGame.ini",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/AIModule/Private/EnvironmentQuery/Tests/EnvQueryTest_Pathfinding.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/UObject/FastReferenceCollector.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstanceInterface.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/NetworkManager.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Online/HTTP/Public/HttpFwd.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Components/AudioComponent.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Components/AudioComponent.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Components/StaticMeshComponent.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Vesna.uproject",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Private/VesnaGameInstance.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/VesnaGameInstance.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/DiceCamera.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Private/DiceCamera.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/Vesna.Target.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VesnaEditor.Target.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Vesna.Build.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/Vesna.h"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA",
+			"",
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA",
+			"",
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA\\vesna\\src",
+			"",
+			"World.h",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kill",
+			"::Kill",
+			"Kill",
+			"Heal",
+			"repair",
+			"speech",
+			"красноречие",
+			"speech",
+			"Speech",
+			"damage",
+			"Health",
+			"damage",
+			"EndGame",
+			"Bonus",
+			"CurrentDiceValue",
+			"Threshold",
+			"damage",
+			"DiceSucce",
+			"Damage",
+			"hasmoved",
+			"Repair",
+			"Kill",
+			"eaction",
+			"requireddice",
+			"heal",
+			"medicine",
+			"heal",
+			"EAction",
+			"currenttarget",
+			"broadcast",
+			"broadcast()",
+			"audiocomponent",
+			"setsound",
+			"BAD",
+			"ZoomCamera",
+			"addactorlocal",
+			"ondicecal",
+			"bindufunction",
+			"spawnactor",
+			"executeifbound",
+			"ondicecalculated",
+			"setsimulatephysics",
+			"setsimulatedphysics",
+			"CameraZoom",
+			"binduobject",
+			"tfunction<",
+			"binduobject",
+			"SpawnActor(",
+			"uscenecomponent",
+			"kismet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"highlight_line": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/govno.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"highlight_line": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Dimka/Desktop/dev/cpp_playground/outmain.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646124,
+								646124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 431892.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CppPlayground.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serve",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"skillch",
+				"Source\\Vesna\\Public\\SkillCheck.h"
+			],
+			[
+				"VesnaPlayerController",
+				"Source\\Vesna\\Public\\VesnaPlayerController.h"
+			],
+			[
+				"vesnaent",
+				"Source\\Vesna\\Public\\VesnaEntityData.h"
+			],
+			[
+				"server",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"VesnaPlayerController cpp",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"serv",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"ser",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"vesnacontro",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"actions",
+				"VESNA\\Actions.json"
+			],
+			[
+				"",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"vesen",
+				"Source\\Vesna\\Public\\VesnaEntity.h"
+			],
+			[
+				"vesnapla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"vesnast",
+				"Source\\Vesna\\Private\\VesnaStationSystemData.cpp"
+			],
+			[
+				"vesnaplayerdata",
+				"Source\\Vesna\\Public\\VesnaPlayerData.h"
+			],
+			[
+				"vesplayerco",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"placontro",
+				"Runtime\\Engine\\Private\\PlayerController.cpp"
+			],
+			[
+				"vesnaen",
+				"Source\\Vesna\\Public\\VesnaEntity.h"
+			],
+			[
+				"vesnastat",
+				"Source\\Vesna\\Public\\VesnaStationSystem.h"
+			],
+			[
+				"VesnaPlayer",
+				"Source\\Vesna\\Private\\VesnaPlayer.cpp"
+			],
+			[
+				"skil",
+				"VESNA\\Skills.json"
+			],
+			[
+				"skill",
+				"VESNA\\Skills.json"
+			],
+			[
+				"fun",
+				"User\\function_definition.sublime-snippet"
+			],
+			[
+				"vesnpla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"del2",
+				"User\\delegate2.sublime-snippet"
+			],
+			[
+				"del3",
+				"User\\delegate3.sublime-snippet"
+			],
+			[
+				"dele",
+				"User\\delegate4.sublime-snippet"
+			],
+			[
+				"Vesnapla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"delegate",
+				"User\\delegate4.sublime-snippet"
+			],
+			[
+				"deleg",
+				"User\\delegate2.sublime-snippet"
+			],
+			[
+				"DiceCamera",
+				"Source\\Vesna\\Private\\DiceCamera.cpp"
+			],
+			[
+				"dicema",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"diceman",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"DiceManager",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"copyen",
+				"sublimeproject\\copyentity.bat"
+			],
+			[
+				"copy",
+				"sublimeproject\\copy.bat"
+			],
+			[
+				"actor.cpp",
+				"sublimeproject\\ue_snippets\\actor.cpp"
+			],
+			[
+				"dice.cp",
+				"Source\\Vesna\\Private\\Dice.cpp"
+			],
+			[
+				"actor",
+				"sublimeproject\\ue_snippets\\actor.h"
+			],
+			[
+				"dice",
+				"Source\\Vesna\\Public\\Dice.h"
+			],
+			[
+				"vesna game",
+				"Source\\Vesna\\Private\\VesnaGameInstance.cpp"
+			],
+			[
+				"AudioComponent",
+				"Runtime\\Engine\\Classes\\Components\\AudioComponent.h"
+			],
+			[
+				"Dice",
+				"Source\\Vesna\\Private\\Dice.cpp"
+			],
+			[
+				"dicecame",
+				"VESNA\\Source\\VESNA\\Private\\DiceCamera.cpp"
+			],
+			[
+				"dicecamera",
+				"VESNA\\Source\\VESNA\\Public\\DiceCamera.h"
+			],
+			[
+				"gameinsta",
+				"VESNA\\Source\\VESNA\\Public\\VesnaGameInstance.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_char_search_character": ")",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

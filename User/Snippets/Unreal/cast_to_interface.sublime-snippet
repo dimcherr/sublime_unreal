@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if (auto ${1} = Cast<I${1}>(${2}))
+{
+	${0}
+}
+]]></content>
+	<tabTrigger>casti</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

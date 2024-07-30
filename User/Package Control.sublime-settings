@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Behave Color Scheme",
+		"BetterFindBuffer",
+		"BetterSnippetManager",
+		"ColorSchemeSelector",
+		"Drive Color Scheme",
+		"Flexoki Color Scheme",
+		"NeoVintageous",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"Switch File Deluxe",
+		"Terminus",
+		"Unreal Snippets",
+	],
+}

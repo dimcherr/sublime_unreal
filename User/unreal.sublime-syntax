@@ -1,0 +1,125 @@
+%YAML 1.2
+---
+file_extensions:
+  - cpp
+  - h
+scope: source.unreal
+
+contexts:
+  prototype:
+    - include: comments
+
+  main:
+    - include: ifendif_directives
+    - include: directives
+    - include: content
+
+  content:
+    - include: unreal_u_macros
+    - include: unreal_macros
+    - include: strings
+    - include: numbers
+    - include: special_values
+    - include: functions_assert
+    - include: functions
+    - include: constants
+    - include: static_values
+    - include: basic_types
+    - include: types
+    - include: modifiers
+    - include: specifiers
+    - include: delegates
+    - include: logical_operators
+
+  comments:
+    - match: '/\*'
+      push:
+        - meta_scope: comment.unreal
+        - match: '\*/'
+          pop: true
+    - match: '//'
+      push:
+        - meta_scope: comment.unreal
+        - match: $\n?
+          pop: true
+  ifendif_directives:
+    - match: '\#if.*$\n?'
+      scope: directive.unreal
+      push:
+        - include: content
+        - meta_scope: directive.content.unreal
+        - match: '\#endif.*$\n?'
+          scope: directive.unreal
+          pop: true
+  directives:
+    - match: '\#\w+\b'
+      scope: directive.unreal
+      push:
+        - include: content
+        - meta_scope: directive.content.unreal
+        - match: $\n?
+          scope: directive.content.unreal
+          pop: true
+  strings:
+    - match: '"'
+      push:
+        - meta_include_prototype: false
+        - meta_scope: string.unreal
+        - match: '\\.'
+          scope: string.escape.unreal
+        - match: '"'
+          pop: true
+  numbers:
+    - match: '\b[0-9][0-9.f]*\b'
+      scope: value.unreal
+  special_values:
+    - match: '\btrue|false|nullptr\b'
+      scope: value.unreal
+  constants:
+    - match: '\b[A-Z][\w_]*_[\w_]*\b'
+      scope: value.unreal
+  static_values:
+    - match: '::'
+      push:
+        - match: '\b[A-Z]\w+\b(?=\()'
+          scope: function.unreal
+          pop: true
+        - match: '\b[A-Z]\w*\b'
+          scope: value.unreal
+          pop: true
+  functions:
+    - match: '\b\w+(?=\()|\w+(?=\<\w*\>\()\b'
+      scope: function.unreal
+  functions_assert:
+    - match: '\b(check|ensure|verify)(?=\()\b'
+      scope: function.assert.unreal
+  basic_types:
+    - match: '\b(u*int(8|16|32|64)|bool|TCHAR|float|double|PTRINT|void|auto|TCHAR|[UTS])\b'
+      scope: type.basic.unreal
+  types:
+    - match: '\b([A-Z][A-Z][a-zA-Z0-9_]+)\b'
+      scope: type.unreal
+  modifiers:
+    - match: '\b(const|virtual|override|return|if|else|for|while|switch|break|continue|case|default|this|Super(?=::)|static|new|delete)\b'
+      scope: modifier.unreal
+  specifiers:
+    - match: '\b(class|struct|public|private|protected|enum|template|typename)\b'
+      scope: specifier.unreal
+  delegates:
+    - match: '&\w+::\w+'
+      scope: delegate.unreal
+  logical_operators:
+    - match: '\s(\&\&|\|\||and|or|xor)\s'
+      scope: operator.logical.andor.unreal
+    - match: '\s(==|!=|>|<|>=|<=|not)\s'
+      scope: operator.logical.unreal
+    - match: '!(?=\w)\b'
+      scope: operator.logical.not.unreal
+    - match: '\bnot\b'
+      scope: operator.logical.not.unreal
+  unreal_u_macros:
+    - match: '\b(?<=UFUNCTION)\(.*\)|\b(?<=UPROPERTY)\(.*\)|\b(?<=UDELEGATE)\(.*\)|\b(?<=UENUM)\(.*\)|\b(?<=UCLASS)\(.*\)|\b(?<=USTRUCT)\(.*\)|\b(?<=UINTERFACE)\(.*\)|\b(?<=UMETA)\(.*\)'
+      scope: macro.u.unreal
+  unreal_macros:
+    - match: '\b[A-Z_]+API\b|\b[A-Z_]+(?=\()\b|\b[A-Z]+_\w+(?=\()\b'
+      scope: macro.unreal

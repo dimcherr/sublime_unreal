@@ -1,0 +1,9 @@
+{
+	"target": "terminus_open",
+	"cancel": "terminus_cancel_build",
+	"shell_cmd": "build MyDear",
+	"working_dir": "C:\\Users\\Dimka\\Desktop\\dev\\sublimeproject",
+	"auto_close": false,
+	"file_regex": "^([\\w:\\\\.]+)\\((\\d+)\\)():\\s(.*)$",
+	"panel_name": "exec"
+}

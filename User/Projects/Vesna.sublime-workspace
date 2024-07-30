@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Blue",
+				"BlueprintImplementableEvent"
+			],
+			[
+				"FVes",
+				"FVesnaActionData"
+			],
+			[
+				"Actio",
+				"ActionsTableRowNames"
+			],
+			[
+				"Vesn",
+				"VesnaStationSystem"
+			],
+			[
+				"Skil",
+				"SkillsTableRowNames"
+			],
+			[
+				"Ele",
+				"EleonoraGabrielan"
+			],
+			[
+				"AVes",
+				"AVesnaPlayerController"
+			],
+			[
+				"FVesn",
+				"FVesnaStationSystemData"
+			],
+			[
+				"OnAll",
+				"OnAllDicesCalculated"
+			],
+			[
+				"uf",
+				"ufi\tunreal-function-interface"
+			],
+			[
+				"up",
+				"upe\tunreal-property-editable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSX"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"addd ",
+				"Project: Add Folder"
+			],
+			[
+				"add pro",
+				"Project: Add Folder"
+			],
+			[
+				"snippet edi",
+				"Snippet: unreal-property-editable"
+			],
+			[
+				"set syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"save ",
+				"File: Save All"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"rename pro",
+				"Project Manager: Rename Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Add New Project"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaPlayerController.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/server/server.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceCamera.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/Dice.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Systems.json",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayerController.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerHome.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Actions.json",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Players.json",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/build.bat",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayer.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Action.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/EntityStats.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameStateSystem.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameStatePlayer.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Skill.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameInstance.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/SkillCheck.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaEntityData.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/Skills.json",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/AmbientSoundManager.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/AmbientSoundManager.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameAction.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameState.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaStationSystem.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaEntity.cpp",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerHome.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/SmallEntityCard.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/SmallEntityCard.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaPlayer.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaStationSystem.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/RandomStream.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/App.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/StartPlayersList.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerCard.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/PlayerCard.js",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/StartPlayersList.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/EntityStats.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/App.css",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/VerseVM/Inline/VVMObjectInline.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Json/Public/Dom/JsonObject.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Json/Public/Dom/JsonValue.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/index.css",
+		"/C/Users/Dimka/Desktop/dev/VESNA/vesna/src/Admin.js",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Dice.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceCamera.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaActionData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaEntity.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Materials/MaterialInterface.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/UObject/NoExportTypes.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Private/Math/Color.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaPlayerData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaStationSystemData.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/PlayerController.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaSkillData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaStationSystemData.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultEngine.ini",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate1.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate2.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/function_definition.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate3.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/delegate4.sublime-snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultEditor.ini",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/table.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Misc/EnumRange.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/create.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/actor.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaGameInstance.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Engine/World.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/gamemode.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/VesnaGameMode.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/StartMenuGameMode.cpp",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/spawnactor.sublime-snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceSoundManager.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceManager.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceState.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/DiceManager.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/MathFwd.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Private/Math/UnrealMath.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Datasmith/DatasmithCore/Public/DatasmithDefinitions.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Array.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/actor.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/usesnippet.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/usesnippet_h.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/gamemode.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/ue_snippets/enum.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/copyentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/deleteentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/renameentity.bat",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/mysnippet.sublime-snippet",
+		"/C/Users/Dimka/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/Die.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/removeentity.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/copy.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/actor.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/vars.bat",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/editor.bat",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/DiceSoundManager.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Vector.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/VesnaGameMode.h",
+		"/C/Users/Dimka/Desktop/dev/VESNA/sublimeproject/actor.snippet",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Public/StartMenuHUD.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/StartMenuHUD.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Math/Rotator.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Config/DefaultGame.ini",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/AIModule/Private/EnvironmentQuery/Tests/EnvQueryTest_Pathfinding.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/UObject/FastReferenceCollector.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstanceInterface.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl",
+		"/C/Users/Dimka/Documents/Unreal Projects/Vesna/Source/Vesna/Private/NetworkManager.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Online/HTTP/Public/HttpFwd.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Classes/Components/AudioComponent.h",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Components/AudioComponent.cpp",
+		"/C/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Components/StaticMeshComponent.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Vesna.uproject",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Private/VesnaGameInstance.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/VesnaGameInstance.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/DiceCamera.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Private/DiceCamera.cpp",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/Vesna.Target.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VesnaEditor.Target.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Vesna.Build.cs",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/Vesna.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Public/VesnaPlayerController.h",
+		"/C/Users/Dimka/Documents/Unreal Projects/VESNA/Source/VESNA/Private/Vesna.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA",
+			"",
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA",
+			"",
+			"C:\\Users\\Dimka\\Desktop\\dev\\VESNA\\vesna\\src",
+			"",
+			"World.h",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kill",
+			"::Kill",
+			"Kill",
+			"Heal",
+			"repair",
+			"speech",
+			"красноречие",
+			"speech",
+			"Speech",
+			"damage",
+			"Health",
+			"damage",
+			"EndGame",
+			"Bonus",
+			"CurrentDiceValue",
+			"Threshold",
+			"damage",
+			"DiceSucce",
+			"Damage",
+			"hasmoved",
+			"Repair",
+			"Kill",
+			"eaction",
+			"requireddice",
+			"heal",
+			"medicine",
+			"heal",
+			"EAction",
+			"currenttarget",
+			"broadcast",
+			"broadcast()",
+			"audiocomponent",
+			"setsound",
+			"BAD",
+			"ZoomCamera",
+			"addactorlocal",
+			"ondicecal",
+			"bindufunction",
+			"spawnactor",
+			"executeifbound",
+			"ondicecalculated",
+			"setsimulatephysics",
+			"setsimulatedphysics",
+			"CameraZoom",
+			"binduobject",
+			"tfunction<",
+			"binduobject",
+			"SpawnActor(",
+			"uscenecomponent",
+			"kismet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus Build Results":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Vesna.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serve",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"skillch",
+				"Source\\Vesna\\Public\\SkillCheck.h"
+			],
+			[
+				"VesnaPlayerController",
+				"Source\\Vesna\\Public\\VesnaPlayerController.h"
+			],
+			[
+				"vesnaent",
+				"Source\\Vesna\\Public\\VesnaEntityData.h"
+			],
+			[
+				"server",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"VesnaPlayerController cpp",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"serv",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"ser",
+				"VESNA\\server\\server.js"
+			],
+			[
+				"vesnacontro",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"actions",
+				"VESNA\\Actions.json"
+			],
+			[
+				"",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"vesen",
+				"Source\\Vesna\\Public\\VesnaEntity.h"
+			],
+			[
+				"vesnapla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"vesnast",
+				"Source\\Vesna\\Private\\VesnaStationSystemData.cpp"
+			],
+			[
+				"vesnaplayerdata",
+				"Source\\Vesna\\Public\\VesnaPlayerData.h"
+			],
+			[
+				"vesplayerco",
+				"Source\\Vesna\\Private\\VesnaPlayerController.cpp"
+			],
+			[
+				"placontro",
+				"Runtime\\Engine\\Private\\PlayerController.cpp"
+			],
+			[
+				"vesnaen",
+				"Source\\Vesna\\Public\\VesnaEntity.h"
+			],
+			[
+				"vesnastat",
+				"Source\\Vesna\\Public\\VesnaStationSystem.h"
+			],
+			[
+				"VesnaPlayer",
+				"Source\\Vesna\\Private\\VesnaPlayer.cpp"
+			],
+			[
+				"skil",
+				"VESNA\\Skills.json"
+			],
+			[
+				"skill",
+				"VESNA\\Skills.json"
+			],
+			[
+				"fun",
+				"User\\function_definition.sublime-snippet"
+			],
+			[
+				"vesnpla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"del2",
+				"User\\delegate2.sublime-snippet"
+			],
+			[
+				"del3",
+				"User\\delegate3.sublime-snippet"
+			],
+			[
+				"dele",
+				"User\\delegate4.sublime-snippet"
+			],
+			[
+				"Vesnapla",
+				"Source\\Vesna\\Public\\VesnaPlayer.h"
+			],
+			[
+				"delegate",
+				"User\\delegate4.sublime-snippet"
+			],
+			[
+				"deleg",
+				"User\\delegate2.sublime-snippet"
+			],
+			[
+				"DiceCamera",
+				"Source\\Vesna\\Private\\DiceCamera.cpp"
+			],
+			[
+				"dicema",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"diceman",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"DiceManager",
+				"Source\\Vesna\\Private\\DiceManager.cpp"
+			],
+			[
+				"copyen",
+				"sublimeproject\\copyentity.bat"
+			],
+			[
+				"copy",
+				"sublimeproject\\copy.bat"
+			],
+			[
+				"actor.cpp",
+				"sublimeproject\\ue_snippets\\actor.cpp"
+			],
+			[
+				"dice.cp",
+				"Source\\Vesna\\Private\\Dice.cpp"
+			],
+			[
+				"actor",
+				"sublimeproject\\ue_snippets\\actor.h"
+			],
+			[
+				"dice",
+				"Source\\Vesna\\Public\\Dice.h"
+			],
+			[
+				"vesna game",
+				"Source\\Vesna\\Private\\VesnaGameInstance.cpp"
+			],
+			[
+				"AudioComponent",
+				"Runtime\\Engine\\Classes\\Components\\AudioComponent.h"
+			],
+			[
+				"Dice",
+				"Source\\Vesna\\Private\\Dice.cpp"
+			],
+			[
+				"dicecame",
+				"VESNA\\Source\\VESNA\\Private\\DiceCamera.cpp"
+			],
+			[
+				"dicecamera",
+				"VESNA\\Source\\VESNA\\Public\\DiceCamera.h"
+			],
+			[
+				"gameinsta",
+				"VESNA\\Source\\VESNA\\Public\\VesnaGameInstance.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_char_search_character": ")",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

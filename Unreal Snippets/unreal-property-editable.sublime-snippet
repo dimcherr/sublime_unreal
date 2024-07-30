@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category="${TM_FILEPATH/.*\/Source\/(.*)\/(?:Private|Public)\/.*/$1/}")
+${1};
+]]></content>
+	<tabTrigger>upe</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

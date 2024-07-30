@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TMulticastDelegate<void(${1})> On${2}; // Params: ${3}
+]]></content>
+	<tabTrigger>delm</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="Components")
+class ${1:USceneComponent}* ${2:SomeComponent};
+${0}
+]]></content>
+	<tabTrigger>upc</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (int32 i = 0; i < ${1}.Num(); ++i)
+{
+	${2}
+}
+]]></content>
+	<tabTrigger>iteratearraywithindex</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

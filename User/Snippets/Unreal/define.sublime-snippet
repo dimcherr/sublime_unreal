@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+#define ${1} ${2}
+]]></content>
+	<tabTrigger>defi</tabTrigger>
+	<scope>source.unreal</scope>
+	<description>define directive</description>
+</snippet>

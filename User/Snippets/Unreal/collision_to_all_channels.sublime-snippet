@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1}->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_${2});
+]]></content>
+	<tabTrigger>collision_to_all_channels</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

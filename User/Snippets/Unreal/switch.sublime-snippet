@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+switch (${1})
+{
+	case ${2}:
+		${0}
+		break;
+	default:
+		break;
+}
+]]></content>
+	<tabTrigger>switch</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+FHitResult OutHit;
+FVector StartLoc = ${1};
+FVector EndLoc = ${2};
+if (LineTraceSingleByChannel(OutHit, StartLoc, EndLoc, ECollisionChannel::ECC_Visibility))
+{
+	${3}
+}
+]]></content>
+	<tabTrigger>line_trace_single</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

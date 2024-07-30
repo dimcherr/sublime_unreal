@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+UE_LOG(LogTemp, Warning, TEXT("${1}"));
+]]></content>
+	<tabTrigger>log</tabTrigger>
+	<scope>source.unreal</scope>
+	<description>UE_LOG</description>
+</snippet>

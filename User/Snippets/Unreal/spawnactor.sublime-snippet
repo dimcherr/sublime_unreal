@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+A${1}* ${2} = GetWorld()->SpawnActor<A${1}>(${1}Class, GetActorLocation(), FRotator());
+
+]]></content>
+	<tabTrigger>sa</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

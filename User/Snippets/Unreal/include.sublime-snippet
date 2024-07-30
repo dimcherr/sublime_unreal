@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#include "${1}.h"
+]]></content>
+	<tabTrigger>in</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

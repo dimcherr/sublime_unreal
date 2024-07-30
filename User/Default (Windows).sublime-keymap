@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+shift+t"], "command": "show_panel", "args": {"panel": "console", "toggle": true}},
+	{ "keys": ["ctrl+shift+b"], "command": "terminus_open", "caption": "Open MyDear", "args": {"shell_cmd": "editor MyDear -log", "cwd": "C:\\Users\\Dimka\\Desktop\\dev\\sublimeproject", "title": "MyDear"}},
+	{ "keys": ["ctrl+shift+w"], "command": "close_all", "caption": "Close All Tabs" },
+	{
+		"keys": ["ctrl+t"], "command": "show_panel",
+		"args": {"panel": "output.exec"},
+		"context": [ { "key": "panel_visible", "operand": false } ]
+	},
+    {
+        "keys": ["ctrl+t"], "command": "hide_panel",
+        "context": [ { "key": "panel_visible", "operand": true } ]
+    },
+]

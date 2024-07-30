@@ -1,0 +1,129 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+		"back": "#00202e",
+		"back2": "#18282f",
+		"content": "hsl(0, 0%, 95%)",
+		"content2": "hsl(0, 0%, 60%)",
+		"accent": "hsl(160, 90%, 70%)",
+		"accent2": "hsl(160, 60%, 65%)",
+		"accent3": "hsl(160, 50%, 50%)",
+		"secondary": "hsl(45, 100%, 55%)",
+		"secondary2": "hsl(45, 80%, 75%)",
+		"primary": "hsl(10, 90%, 55%)",
+		"primary2": "hsl(10, 80%, 65%)",
+		"primary3": "hsl(10, 70%, 75%)",
+
+		"myred": "#ffadad",
+		"myred1": "#ff8899",
+		"myorange": "#ffd6a5",
+		"myyellow": "#fdffb6",
+		"mygreen": "#bfffe9",
+		"mygreen1": "#8dbead",
+		"myblue": "#9bf6ff",
+		"myblue1": "#86d6de",
+		"mydarkblue": "#a0c4ff",
+		"myviolet": "#bdb2ff",
+		"mypink": "#ffc6ff",
+		"mypink2": "#ef8fbf",
+	},
+	"globals":
+	{
+		"background": "var(back)",
+		"foreground": "var(content)"
+	},
+	"rules":
+	[
+		{
+			"name": "Unreal Comment",
+			"scope": "comment.unreal",
+			"foreground": "var(content2)"
+		},
+		{
+			"name": "Unreal String",
+			"scope": "string.unreal",
+			"foreground": "var(mypink2)"
+		},
+		{
+			"name": "Unreal String Escape",
+			"scope": "string.escape.unreal",
+			"foreground": "var(mypink)"
+		},
+		{
+			"name": "Unreal Value",
+			"scope": "value.unreal",
+			"foreground": "var(mypink)"
+		},
+		{
+			"name": "Unreal Function",
+			"scope": "function.unreal",
+			"foreground": "var(myyellow)"
+		},
+		{
+			"name": "Unreal Directive",
+			"scope": "directive.unreal",
+			"foreground": "var(mygreen1)"
+		},
+		{
+			"name": "Unreal Directive Content",
+			"scope": "directive.content.unreal",
+			"background": "var(back2)"
+		},
+		{
+			"name": "Unreal Type Basic",
+			"scope": "type.basic.unreal",
+			"foreground": "var(myred)"
+		},
+		{
+			"name": "Unreal Type",
+			"scope": "type.unreal",
+			"foreground": "var(myorange)"
+		},
+		{
+			"name": "Unreal Modifier",
+			"scope": "modifier.unreal",
+			"foreground": "var(mydarkblue)"
+		},
+		{
+			"name": "Unreal Specifier",
+			"scope": "specifier.unreal",
+			"foreground": "var(myviolet)"
+		},
+		{
+			"name": "Unreal Delegate",
+			"scope": "delegate.unreal",
+			"foreground": "var(myred)"
+		},
+		{
+			"name": "Unreal Logical Operator",
+			"scope": "operator.logical.unreal",
+			"foreground": "var(myred)"
+		},
+		{
+			"name": "Unreal Logical Operator Not",
+			"scope": "operator.logical.not.unreal",
+			"foreground": "var(myred)"
+		},
+		{
+			"name": "Unreal Logical Operator Andor",
+			"scope": "operator.logical.andor.unreal",
+			"foreground": "var(mydarkblue)"
+		},
+		{
+			"name": "Unreal Macro",
+			"scope": "macro.unreal",
+			"foreground": "var(mygreen)"
+		},
+		{
+			"name": "Unreal Macro U",
+			"scope": "macro.u.unreal",
+			"foreground": "var(mygreen1)"
+		},
+		{
+			"name": "Unreal Function Assert",
+			"scope": "function.assert.unreal",
+			"foreground": "var(myred1)"
+		},
+	]
+}

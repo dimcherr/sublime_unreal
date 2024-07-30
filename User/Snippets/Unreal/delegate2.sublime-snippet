@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_TwoParams(F${1}Delegate, ${2}, ${3}, ${4}, ${5});
+UPROPERTY(BlueprintAssignable)
+F${1}Delegate On${1};
+]]></content>
+	<tabTrigger>d2</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>
+

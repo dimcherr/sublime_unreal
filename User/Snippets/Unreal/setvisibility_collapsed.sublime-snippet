@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1}->SetVisibility(ESlateVisibility::Collapsed);
+]]></content>
+	<tabTrigger>setvisibility_collapsed</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

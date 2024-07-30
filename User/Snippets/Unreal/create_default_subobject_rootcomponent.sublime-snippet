@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1} = CreateDefaultSubobject<${2}>(TEXT("${1}"));
+SetRootComponent(${1});
+${0}
+]]></content>
+	<tabTrigger>cdsr</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

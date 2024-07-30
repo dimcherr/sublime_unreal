@@ -1,0 +1,44 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Dimka\\Desktop\\dev\\MyDearProject\\gitrep\\MyDear\\Source",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\Desktop\\dev\\MyDearProject\\gitrep\\MyDear\\Config",
+		},
+		{
+			"path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source\\Runtime",
+		},
+		{
+			"path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Plugins\\Runtime",
+		},
+		{
+			"path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Plugins\\EnhancedInput\\Source\\EnhancedInput",
+		},
+		{
+			"path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Plugins\\FX\\Niagara\\Source\\Niagara",
+		},
+		{
+			"path": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Plugins\\Experimental\\ChaosVehiclesPlugin\\Source\\ChaosVehicles",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\Desktop\\dev\\sublimeproject",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\AppData\\Roaming\\Sublime Text\\Packages\\User",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\AppData\\Roaming\\Sublime Text\\Packages\\UnrealGenerator",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\AppData\\Roaming\\Sublime Text\\Packages\\ObsidianToUnrealConversation",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\Desktop\\dev\\MyDearProject\\gitrep\\MyDear\\RawAssets\\Conversations",
+		},
+		{
+			"path": "C:\\Users\\Dimka\\AppData\\Roaming\\Sublime Text\\Packages\\UnrealAutoComplete",
+		},
+	],
+}

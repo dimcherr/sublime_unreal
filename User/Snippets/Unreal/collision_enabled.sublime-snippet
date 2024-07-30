@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1}->SetCollisionEnabled(ECollisionEnabled::${2});
+]]></content>
+	<tabTrigger>collision_enabled</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

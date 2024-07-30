@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (auto& Item : ${1})
+{
+	${2}
+}
+]]></content>
+	<tabTrigger>iteratearray</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>

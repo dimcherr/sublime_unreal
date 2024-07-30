@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "UCreate Entity",
+        "command": "u_create_entity"
+    },
+    {
+        "caption": "UCopy Entity",
+        "command": "u_copy_entity"
+    },
+    {
+        "caption": "UDefine Function",
+        "command": "u_define_function"
+    },
+    {
+        "caption": "UImplement Interface",
+        "command": "u_implement_interface"
+    }
+]

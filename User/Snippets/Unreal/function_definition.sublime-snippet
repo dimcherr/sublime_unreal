@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1} ${2}${TM_FILENAME/([^\.]+)\..*/$1/}::${3}(${4}) 
+{
+	${5}
+}
+]]></content>
+	<tabTrigger>fd</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>
+

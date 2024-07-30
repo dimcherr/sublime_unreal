@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1} ${2}_Implementation(${3}) override;
+]]></content>
+	<tabTrigger>ifun</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>
+

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+UPROPERTY(EditAnywhere, meta = (BindWidget))
+class U${1}* ${2};
+]]></content>
+	<tabTrigger>upw</tabTrigger>
+	<scope>source.unreal</scope>
+</snippet>
