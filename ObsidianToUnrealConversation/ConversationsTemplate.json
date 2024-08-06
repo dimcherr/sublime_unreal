@@ -1,10 +1,8 @@
 {{
 	"Name": "{conversation_id}",
 	"Speaker": "{speaker_name}",
-	"OtherSpeaker": "{other_speaker_name}",
-	"CueText": "{cue_text}",
-	"SummaryText": "{summary_text}",
-	"SoundWave": "/Script/Engine.SoundWave'/Game/Conversation/Sounds/Sound_Cue_{conversation_id}.Sound_Cue_{conversation_id}'",
-	"FaceAnimSequence": "/Script/Engine.AnimSequence'/Game/Conversation/Animations/A_Cue_{conversation_id}.A_Cue_{conversation_id}'",
-	"PossibleNextCues": [{possible_next_cues}]
+	"Subtitles": [{subtitles}],
+	"Summary": "{summary_text}",
+	"FaceAnimation": "/Script/Engine.SoundWave'/Game/Conversation/Sounds/Sound_Cue_{conversation_id}.Sound_Cue_{conversation_id}'",
+	"NextPossibleCues": [{possible_next_cues}]
 }}

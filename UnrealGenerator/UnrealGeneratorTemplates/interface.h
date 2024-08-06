@@ -15,5 +15,5 @@ class I{name}
 	GENERATED_BODY()
 
 public:
-	virtual void DoSomething() {{}};
+	virtual void DoSomething();
 }};
